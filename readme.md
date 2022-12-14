@@ -8,3 +8,4 @@
 - git init
 - git status
 - git resest
+- git remote
